@@ -1,0 +1,7 @@
+
+
+
+<<
+EOL
+#!/bin/bash
+printf '%x\n' 
